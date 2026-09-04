@@ -1,0 +1,427 @@
+Municipality,District,Population
+Halden,Østfold,30790
+Moss,Østfold,32407
+Sarpsborg,Østfold,55127
+Fredrikstad,Østfold,80121
+Hvaler,Østfold,4517
+Aremark,Østfold,1398
+Marker,Østfold,3597
+Rømskog,Østfold,685
+Trøgstad,Østfold,5367
+Spydeberg,Østfold,5765
+Askim,Østfold,15720
+Eidsberg,Østfold,11406
+Skiptvet,Østfold,3783
+Rakkestad,Østfold,8173
+Råde,Østfold,7398
+Rygge,Østfold,15747
+Våler (Østf.),Østfold,5335
+Hobøl,Østfold,5557
+Vestby,Akershus,17188
+Ski,Akershus,30698
+Ås,Akershus,19288
+Frogn,Akershus,15743
+Nesodden,Akershus,18869
+Oppegård,Akershus,26988
+Bærum,Akershus,124008
+Asker,Akershus,60781
+Aurskog-Høland,Akershus,16162
+Sørum,Akershus,17665
+Fet,Akershus,11555
+Rælingen,Akershus,17730
+Enebakk,Akershus,10927
+Lørenskog,Akershus,37406
+Skedsmo,Akershus,53276
+Nittedal,Akershus,23213
+Gjerdrum,Akershus,6546
+Ullensaker,Akershus,35102
+Nes (Ak.),Akershus,21241
+Eidsvoll,Akershus,24415
+Nannestad,Akershus,12657
+Hurdal,Akershus,2910
+Oslo kommune,Oslo,666759
+Kongsvinger,Hedmark,17857
+Hamar,Hedmark,30598
+Ringsaker,Hedmark,33842
+Løten,Hedmark,7633
+Stange,Hedmark,20317
+Nord-Odal,Hedmark,5100
+Sør-Odal,Hedmark,7866
+Eidskog,Hedmark,6127
+Grue,Hedmark,4777
+Åsnes,Hedmark,7329
+Våler (Hedm.),Hedmark,3743
+Elverum,Hedmark,21086
+Trysil,Hedmark,6550
+Åmot,Hedmark,4518
+Stor-Elvdal,Hedmark,2530
+Rendalen,Hedmark,1858
+Engerdal,Hedmark,1274
+Tolga,Hedmark,1620
+Tynset,Hedmark,5584
+Alvdal,Hedmark,2441
+Folldal,Hedmark,1577
+Os (Hedm.),Hedmark,1963
+Lillehammer,Oppland,27781
+Gjøvik,Oppland,30319
+Dovre,Oppland,2675
+Lesja,Oppland,2048
+Skjåk,Oppland,2202
+Lom,Oppland,2360
+Vågå,Oppland,3640
+Nord-Fron,Oppland,5723
+Sel,Oppland,5916
+Sør-Fron,Oppland,3163
+Ringebu,Oppland,4502
+Øyer,Oppland,5082
+Gausdal,Oppland,6204
+Østre Toten,Oppland,14887
+Vestre Toten,Oppland,13179
+Jevnaker,Oppland,6696
+Lunner,Oppland,9080
+Gran,Oppland,13707
+Søndre Land,Oppland,5717
+Nordre Land,Oppland,6773
+Sør-Aurdal,Oppland,3026
+Etnedal,Oppland,1351
+Nord-Aurdal,Oppland,6490
+Vestre Slidre,Oppland,2114
+Øystre Slidre,Oppland,3248
+Vang,Oppland,1596
+Drammen,Buskerud,68363
+Kongsberg,Buskerud,27216
+Ringerike,Buskerud,30034
+Hole,Buskerud,6772
+Flå,Buskerud,1081
+Nes (Busk.),Buskerud,3357
+Gol,Buskerud,4612
+Hemsedal,Buskerud,2442
+Ål,Buskerud,4719
+Hol,Buskerud,4535
+Sigdal,Buskerud,3502
+Krødsherad,Buskerud,2257
+Modum,Buskerud,13786
+Øvre Eiker,Buskerud,18562
+Nedre Eiker,Buskerud,24718
+Lier,Buskerud,25740
+Røyken,Buskerud,21931
+Hurum,Buskerud,9462
+Flesberg,Buskerud,2696
+Rollag,Buskerud,1399
+Nore og Uvdal,Buskerud,2530
+Horten,Vestfold,27202
+Holmestrand,Vestfold,10861
+Tønsberg,Vestfold,44922
+Larvik,Vestfold,44082
+Sandefjord,Vestfold,62019
+Svelvik,Vestfold,6653
+Sande (Vestf.),Vestfold,9496
+Hof,Vestfold,3176
+Re,Vestfold,9486
+Nøtterøy,Vestfold,21748
+Tjøme,Vestfold,4928
+Lardal,Vestfold,2475
+Porsgrunn,Telemark,36198
+Skien,Telemark,54316
+Notodden,Telemark,12757
+Siljan,Telemark,2357
+Bamble,Telemark,14138
+Kragerø,Telemark,10586
+Drangedal,Telemark,4148
+Nome,Telemark,6585
+Bø (Telem.),Telemark,6262
+Sauherad,Telemark,4303
+Tinn,Telemark,5894
+Hjartdal,Telemark,1593
+Seljord,Telemark,2979
+Kviteseid,Telemark,2442
+Nissedal,Telemark,1476
+Fyresdal,Telemark,1319
+Tokke,Telemark,2228
+Vinje,Telemark,3726
+Risør,Aust-Agder,6936
+Grimstad,Aust-Agder,22692
+Arendal,Aust-Agder,44576
+Gjerstad,Aust-Agder,2511
+Vegårshei,Aust-Agder,2104
+Tvedestrand,Aust-Agder,6051
+Froland,Aust-Agder,5713
+Lillesand,Aust-Agder,10702
+Birkenes,Aust-Agder,5178
+Åmli,Aust-Agder,1856
+Iveland,Aust-Agder,1342
+Evje og Hornnes,Aust-Agder,3614
+Bygland,Aust-Agder,1200
+Valle,Aust-Agder,1246
+Bykle,Aust-Agder,952
+Kristiansand,Vest-Agder,89268
+Mandal,Vest-Agder,15600
+Farsund,Vest-Agder,9769
+Flekkefjord,Vest-Agder,9090
+Vennesla,Vest-Agder,14425
+Songdalen,Vest-Agder,6568
+Søgne,Vest-Agder,11321
+Marnardal,Vest-Agder,2309
+Åseral,Vest-Agder,937
+Audnedal,Vest-Agder,1765
+Lindesnes,Vest-Agder,4950
+Lyngdal,Vest-Agder,8588
+Hægebostad,Vest-Agder,1702
+Kvinesdal,Vest-Agder,5988
+Sirdal,Vest-Agder,1836
+Eigersund,Rogaland,14899
+Sandnes,Rogaland,75497
+Stavanger,Rogaland,132729
+Haugesund,Rogaland,37166
+Sokndal,Rogaland,3316
+Lund,Rogaland,3259
+Bjerkreim,Rogaland,2826
+Hå,Rogaland,18800
+Klepp,Rogaland,19042
+Time,Rogaland,18656
+Gjesdal,Rogaland,11902
+Sola,Rogaland,26016
+Randaberg,Rogaland,10873
+Forsand,Rogaland,1245
+Strand,Rogaland,12662
+Hjelmeland,Rogaland,2708
+Suldal,Rogaland,3853
+Sauda,Rogaland,4760
+Finnøy,Rogaland,3235
+Rennesøy,Rogaland,4892
+Kvitsøy,Rogaland,534
+Bokn,Rogaland,855
+Tysvær,Rogaland,11041
+Karmøy,Rogaland,42229
+Utsira,Rogaland,201
+Vindafjord,Rogaland,8828
+Bergen,Hordaland,278556
+Etne,Hordaland,4135
+Sveio,Hordaland,5656
+Bømlo,Hordaland,11806
+Stord,Hordaland,18821
+Fitjar,Hordaland,3189
+Tysnes,Hordaland,2847
+Kvinnherad,Hordaland,13241
+Jondal,Hordaland,1108
+Odda,Hordaland,7025
+Ullensvang,Hordaland,3377
+Eidfjord,Hordaland,921
+Ulvik,Hordaland,1131
+Granvin,Hordaland,933
+Voss,Hordaland,14514
+Kvam,Hordaland,8423
+Fusa,Hordaland,3895
+Samnanger,Hordaland,2488
+Os (Hord.),Hordaland,20152
+Austevoll,Hordaland,5156
+Sund,Hordaland,7058
+Fjell,Hordaland,25204
+Askøy,Hordaland,28821
+Vaksdal,Hordaland,4123
+Modalen,Hordaland,383
+Osterøy,Hordaland,8026
+Meland,Hordaland,8021
+Øygarden,Hordaland,4913
+Radøy,Hordaland,5128
+Lindås,Hordaland,15731
+Austrheim,Hordaland,2884
+Fedje,Hordaland,587
+Masfjorden,Hordaland,1710
+Flora,Sogn og Fjordane,11999
+Gulen,Sogn og Fjordane,2371
+Solund,Sogn og Fjordane,794
+Hyllestad,Sogn og Fjordane,1438
+Høyanger,Sogn og Fjordane,4190
+Vik,Sogn og Fjordane,2722
+Balestrand,Sogn og Fjordane,1288
+Leikanger,Sogn og Fjordane,2332
+Sogndal,Sogn og Fjordane,7941
+Aurland,Sogn og Fjordane,1787
+Lærdal,Sogn og Fjordane,2159
+Årdal,Sogn og Fjordane,5363
+Luster,Sogn og Fjordane,5151
+Askvoll,Sogn og Fjordane,3065
+Fjaler,Sogn og Fjordane,2862
+Gaular,Sogn og Fjordane,2966
+Jølster,Sogn og Fjordane,3049
+Førde,Sogn og Fjordane,13009
+Naustdal,Sogn og Fjordane,2848
+Bremanger,Sogn og Fjordane,3847
+Vågsøy,Sogn og Fjordane,6031
+Selje,Sogn og Fjordane,2791
+Eid,Sogn og Fjordane,6064
+Hornindal,Sogn og Fjordane,1198
+Gloppen,Sogn og Fjordane,5783
+Stryn,Sogn og Fjordane,7218
+Molde,Møre og Romsdal,26822
+Ålesund,Møre og Romsdal,47199
+Kristiansund,Møre og Romsdal,24442
+Vanylven,Møre og Romsdal,3203
+Sande (M. og R.),Møre og Romsdal,2540
+Herøy (M. og R.),Møre og Romsdal,8957
+Ulstein,Møre og Romsdal,8457
+Hareid,Møre og Romsdal,5185
+Volda,Møre og Romsdal,9102
+Ørsta,Møre og Romsdal,10744
+Ørskog,Møre og Romsdal,2296
+Norddal,Møre og Romsdal,1663
+Stranda,Møre og Romsdal,4623
+Stordal,Møre og Romsdal,1005
+Sykkylven,Møre og Romsdal,7695
+Skodje,Møre og Romsdal,4667
+Sula,Møre og Romsdal,9007
+Giske,Møre og Romsdal,8176
+Haram,Møre og Romsdal,9312
+Vestnes,Møre og Romsdal,6577
+Rauma,Møre og Romsdal,7503
+Nesset,Møre og Romsdal,2963
+Midsund,Møre og Romsdal,2085
+Sandøy,Møre og Romsdal,1246
+Aukra,Møre og Romsdal,3547
+Fræna,Møre og Romsdal,9741
+Eide,Møre og Romsdal,3454
+Averøy,Møre og Romsdal,5856
+Gjemnes,Møre og Romsdal,2611
+Tingvoll,Møre og Romsdal,3109
+Sunndal,Møre og Romsdal,7126
+Surnadal,Møre og Romsdal,5986
+Rindal,Møre og Romsdal,2026
+Halsa,Møre og Romsdal,1599
+Smøla,Møre og Romsdal,2160
+Aure,Møre og Romsdal,3590
+Trondheim,Sør-Trøndelag,190464
+Hemne,Sør-Trøndelag,4259
+Snillfjord,Sør-Trøndelag,982
+Hitra,Sør-Trøndelag,4659
+Frøya,Sør-Trøndelag,4937
+Ørland,Sør-Trøndelag,5291
+Agdenes,Sør-Trøndelag,1711
+Rissa,Sør-Trøndelag,6628
+Bjugn,Sør-Trøndelag,4822
+Åfjord,Sør-Trøndelag,3263
+Roan,Sør-Trøndelag,959
+Osen,Sør-Trøndelag,978
+Oppdal,Sør-Trøndelag,6973
+Rennebu,Sør-Trøndelag,2556
+Meldal,Sør-Trøndelag,3960
+Orkdal,Sør-Trøndelag,11891
+Røros,Sør-Trøndelag,5623
+Holtålen,Sør-Trøndelag,2046
+Midtre Gauldal,Sør-Trøndelag,6319
+Melhus,Sør-Trøndelag,16213
+Skaun,Sør-Trøndelag,8000
+Klæbu,Sør-Trøndelag,6050
+Malvik,Sør-Trøndelag,13820
+Selbu,Sør-Trøndelag,4098
+Tydal,Sør-Trøndelag,861
+Steinkjer,Nord-Trøndelag,21972
+Namsos,Nord-Trøndelag,13051
+Meråker,Nord-Trøndelag,2508
+Stjørdal,Nord-Trøndelag,23625
+Frosta,Nord-Trøndelag,2630
+Leksvik,Nord-Trøndelag,3480
+Levanger,Nord-Trøndelag,19892
+Verdal,Nord-Trøndelag,14849
+Verran,Nord-Trøndelag,2515
+Namdalseid,Nord-Trøndelag,1593
+Snåase - Snåsa,Nord-Trøndelag,2159
+Lierne,Nord-Trøndelag,1389
+Raarvihke - Røyrvik,Nord-Trøndelag,469
+Namsskogan,Nord-Trøndelag,872
+Grong,Nord-Trøndelag,2467
+Høylandet,Nord-Trøndelag,1264
+Overhalla,Nord-Trøndelag,3840
+Fosnes,Nord-Trøndelag,628
+Flatanger,Nord-Trøndelag,1090
+Vikna,Nord-Trøndelag,4418
+Nærøy,Nord-Trøndelag,5138
+Leka,Nord-Trøndelag,584
+Inderøy,Nord-Trøndelag,6800
+Bodø,Nordland,51022
+Narvik,Nordland,18756
+Bindal,Nordland,1473
+Sømna,Nordland,2047
+Brønnøy,Nordland,7956
+Vega,Nordland,1234
+Vevelstad,Nordland,528
+Herøy (Nordl.),Nordland,1788
+Alstahaug,Nordland,7428
+Leirfjord,Nordland,2278
+Vefsn,Nordland,13465
+Grane,Nordland,1469
+Hattfjelldal,Nordland,1414
+Dønna,Nordland,1410
+Nesna,Nordland,1837
+Hemnes,Nordland,4524
+Rana,Nordland,26101
+Lurøy,Nordland,1920
+Træna,Nordland,465
+Rødøy,Nordland,1267
+Meløy,Nordland,6435
+Gildeskål,Nordland,2024
+Beiarn,Nordland,1043
+Saltdal,Nordland,4702
+Fauske,Nordland,9729
+Sørfold,Nordland,1958
+Steigen,Nordland,2543
+Hamarøy - Hábmer,Nordland,1810
+Divtasvuodna - Tysfjord,Nordland,1960
+Lødingen,Nordland,2134
+Tjeldsund,Nordland,1252
+Evenes,Nordland,1402
+Ballangen,Nordland,2554
+Røst,Nordland,535
+Værøy,Nordland,744
+Flakstad,Nordland,1349
+Vestvågøy,Nordland,11294
+Vågan,Nordland,9444
+Hadsel,Nordland,8009
+Bø (Nordl.),Nordland,2624
+Øksnes,Nordland,4580
+Sortland,Nordland,10378
+Andøy,Nordland,4908
+Moskenes,Nordland,1073
+Tromsø,Troms - Romsa,74541
+Harstad,Troms - Romsa,24845
+Kvæfjord,Troms - Romsa,2986
+Skånland,Troms - Romsa,3048
+Ibestad,Troms - Romsa,1394
+Gratangen,Troms - Romsa,1121
+Loabák - Lavangen,Troms - Romsa,1076
+Bardu,Troms - Romsa,3994
+Salangen,Troms - Romsa,2220
+Målselv,Troms - Romsa,6781
+Sørreisa,Troms - Romsa,3496
+Dyrøy,Troms - Romsa,1138
+Tranøy,Troms - Romsa,1540
+Torsken,Troms - Romsa,921
+Berg,Troms - Romsa,914
+Lenvik,Troms - Romsa,11697
+Balsfjord,Troms - Romsa,5685
+Karlsøy,Troms - Romsa,2273
+Lyngen,Troms - Romsa,2876
+Storfjord - Omasvuotna - Omasvuono,Troms - Romsa,1890
+Gáivuotna - Kåfjord,Troms - Romsa,2132
+Skjervøy,Troms - Romsa,2912
+Nordreisa,Troms - Romsa,4919
+Kvænangen,Troms - Romsa,1233
+Vardø,Finnmark - Finnmárku,2104
+Vadsø,Finnmark - Finnmárku,6154
+Hammerfest,Finnmark - Finnmárku,10527
+Guovdageaidnu - Kautokeino,Finnmark - Finnmárku,2938
+Alta,Finnmark - Finnmárku,20446
+Loppa,Finnmark - Finnmárku,968
+Hasvik,Finnmark - Finnmárku,1037
+Kvalsund,Finnmark - Finnmárku,1027
+Måsøy,Finnmark - Finnmárku,1204
+Nordkapp,Finnmark - Finnmárku,3291
+Porsanger - Porsángu - Porsanki,Finnmark - Finnmárku,3971
+Kárásjohka - Karasjok,Finnmark - Finnmárku,2696
+Lebesby,Finnmark - Finnmárku,1330
+Gamvik,Finnmark - Finnmárku,1137
+Berlevåg,Finnmark - Finnmárku,991
+Deatnu - Tana,Finnmark - Finnmárku,2911
+Unjárga - Nesseby,Finnmark - Finnmárku,951
+Båtsfjord,Finnmark - Finnmárku,2267
+Sør-Varanger,Finnmark - Finnmárku,10199

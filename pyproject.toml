@@ -1,0 +1,29 @@
+[project]
+name = "inf201-h26"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[tool.ruff]
+target-version = "py314"
+line-length = 120
+
+[tool.ruff.lint]
+preview = true
+select = [
+    "E",   # pycodestyle errors (PEP 8 whitespace, layout, line length)
+    "W",   # pycodestyle warnings (PEP 8 formatting)
+    "F",   # Pyflakes (undefined variables, unused imports, logical errors)
+    "N",   # pep8-naming (snake_case functions/variables, PascalCase classes)
+    "I",   # isort (PEP 8 import sorting)
+    "B",   # flake8-bugbear (common pitfall checks and bug risks)
+    "UP",  # pyupgrade (modern Python 3.10+ syntax enforcement)
+]
+
+[tool.mypy]
+python_version = "3.14"
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+warn_return_any = true
+warn_unused_ignores = true
+ignore_missing_imports = true

@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "charliermarsh.ruff",
+  "python.analysis.typeCheckingMode": "off",
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggest.showSnippets": false
+}
