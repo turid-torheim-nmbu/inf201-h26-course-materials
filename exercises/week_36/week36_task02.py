@@ -3,7 +3,7 @@
 
 # Task 2 - User input
 # Write a script that asks the user for an integer between 1 and 10
-# The script should then print all integers starting with 0 and ending with the inputted number
+# The script should then print all integers starting with 1 and ending with the inputted number
 
 # We first use the input function to ask the user for a number
 input_num = input("Enter an integer between 1 and 10: ")

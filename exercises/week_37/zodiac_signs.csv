@@ -1,0 +1,13 @@
+zodiac_sign;date_range;compatible;incompatible
+Aries;March 21 - April 19;Leo and Sagittarius;Virgo and Scorpio
+Taurus;April 20 - May 20;Virgo and Capricorn;Libra and Sagittarius
+Gemini;May 21 - June 20;Libra and Aquarius;Scorpio and Capricorn
+Cancer;June 21 - July 22;Scorpio and Pisces;Sagittarius and Aquarius
+Leo;July 23 - August 22;Aries and Sagittarius;Capricorn and Pisces
+Virgo;August 23 - September 22;Capricorn and Taurus;Aries and Aquarius
+Libra;September 23 - October 22;Gemini and Aquarius;Taurus and Pisces
+Scorpio;October 23 - November 21;Cancer and Pisces;Gemini and Aries
+Sagittarius;November 22 - December 21;Aries and Leo;Taurus and Cancer
+Capricorn;December 22 - January 19;Taurus and Virgo;Gemini and Leo
+Aquarius;January 20 - February 18;Gemini and Libra;Cancer and Virgo
+Pisces;February 19 - March 20;Cancer and Scorpio;Leo and Libra
