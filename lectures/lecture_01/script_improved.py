@@ -1,3 +1,5 @@
+# This is the improved version that we made in the lecture
+
 import numpy as np
 
 var1 = 2.34
