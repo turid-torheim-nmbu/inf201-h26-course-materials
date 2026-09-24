@@ -1,0 +1,4 @@
+This is a simple text file.
+
+It contains four lines, of which one is empty.
+The file does not end with a new line character.
