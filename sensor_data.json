@@ -1,0 +1,22 @@
+{
+    "station_id": "ST-1042",
+    "location": {
+        "latitude": 59.9139,
+        "longitude": 10.7522,
+        "elevation_m": 125
+    },
+    "is_operational": true,
+    "last_maintenance": null,
+    "readings": [
+        {
+            "timestamp": "2026-09-26T10:00:00Z",
+            "temp_c": 14.5,
+            "humidity_pct": 62
+        },
+        {
+            "timestamp": "2026-09-26T11:00:00Z",
+            "temp_c": 15.2,
+            "humidity_pct": 58
+        }
+    ]
+}

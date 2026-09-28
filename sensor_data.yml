@@ -1,0 +1,14 @@
+is_operational: true
+last_maintenance: null
+location:
+  elevation_m: 125
+  latitude: 59.9139
+  longitude: 10.7522
+readings:
+- humidity_pct: 62
+  temp_c: 14.5
+  timestamp: '2026-09-26T10:00:00Z'
+- humidity_pct: 58
+  temp_c: 15.2
+  timestamp: '2026-09-26T11:00:00Z'
+station_id: ST-1042
