@@ -1,0 +1,3 @@
+Name;Age;Phone number
+Per;24;12345678
+Kari;23;23456789
